@@ -1,9 +1,10 @@
-package com.example.openweatherapi
+package com.example.openweatherapi.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.openweatherapi.R
 
-class MainActivity : AppCompatActivity() {
+class WeatherListActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
