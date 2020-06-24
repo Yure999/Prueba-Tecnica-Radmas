@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">OpenWeatherAPI</string>
+    <string name="temperature">temperature</string>
+    <string name="textView">textview</string>
+    <string name="max">max</string>
+    <string name="min">min</string>
+    <string name="weatherState">weatherState</string>
 </resources>
